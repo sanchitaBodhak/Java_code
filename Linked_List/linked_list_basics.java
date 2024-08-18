@@ -4,6 +4,7 @@ class node {
     node next;
 
     node(int value) { // constructor
+
         this.value = value;
     }
 }

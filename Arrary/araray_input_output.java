@@ -24,9 +24,10 @@ public class araray_input_output {
         System.out.println();
         return array;
     }
-    public static void print_array(int[] arr){
-        for (int i=0 ; i< arr.length; i++){
+    public static void print_array( int[] arr){
+        for ( int i = 0; i < arr.length ; i++){
             System.out.print(arr[i] + "\t");
         }
+
     }
 }
