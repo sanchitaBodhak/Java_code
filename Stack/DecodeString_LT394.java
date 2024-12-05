@@ -45,6 +45,7 @@ public class DecodeString_LT394 {
 
 public static void main(String[] args) {
     System.out.println("hiii");
-}
+
     }
+}
 
